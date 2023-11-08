@@ -1,0 +1,14 @@
+syntax = "proto3";
+package cvmcosmos.cvmcosmos;
+
+import "gogoproto/gogo.proto";
+import "cvmcosmos/params.proto";
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "cvm-cosmos/x/cvmcosmos/types";
+
+// GenesisState defines the cvmcosmos module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+  // this line is used by starport scaffolding # genesis/proto/state
+}
