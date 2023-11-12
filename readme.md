@@ -1,15 +1,17 @@
-# cairos
-**cairos** is CairoVM-Cosmos Integration Module, an innovative project designed to integrate the Cairo virtual machine with the Cosmos blockchain ecosystem. The Cairo virtual machine, known for its powerful and efficient smart contract execution capabilities, is enabling developers to leverage Cairo's features in a Cosmos-based environment.
+🚧 Geregè is still under development and some features may not work at the moment. Soon we will deploy the testable version once we figure out correct way to modify Cosmos SDK to work with Cairo VM. 
+
+# Cairos
+**cairos** is CairoVM-Cosmos Integration Module, a project to integrate the Cairo VM with the Cosmos SDK. The Cairo VM, known for its provable computation and efficient smart contract execution capabilities, will bring unique inter-chain interoperability with Starknet and Cosmos SDK based chains. 
 
 # Features
 - Seamless Integration: Easily integrate Cairo VM with existing Cosmos SDK-based blockchains.
 - Smart Contract Support: Utilize Cairo for writing and executing smart contracts within the Cosmos ecosystem.
 - Performance Optimization: Leverage Cairo's efficient computation model for improved performance and lower gas costs.
 - Security: Enhanced security features inherent to Cairo VM, now available for Cosmos applications.
-- Interoperability: Maintain Cosmos's interoperability features while using Cairo's smart contract capabilities.
+- Interoperability: Maintain IBC or improve IBC with zk-features while using Cairo's smart contract capabilities.
 
 # Prerequisites
-Before you begin, ensure you have the following installed:
+Before begin testing, ensure you have the following installed:
 - Go version 1.18 or higher
 - Latest version of Cosmos SDK
 - Familiarity with Go programming language, as Cosmos SDK is written in Go.
