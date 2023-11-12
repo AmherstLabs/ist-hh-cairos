@@ -1,5 +1,5 @@
 # cairos
-**cairos** is CairoVM-Cosmos Integration Module, an innovative project designed to integrate the Cairo virtual machine with the Cosmos blockchain ecosystem. The Cairo virtual machine, known for its powerful and efficient smart contract execution capabilities, is now seamlessly integrated as a module in the Cosmos ecosystem, enabling developers to leverage Cairo's features in a Cosmos-based environment.
+**cairos** is CairoVM-Cosmos Integration Module, an innovative project designed to integrate the Cairo virtual machine with the Cosmos blockchain ecosystem. The Cairo virtual machine, known for its powerful and efficient smart contract execution capabilities, is enabling developers to leverage Cairo's features in a Cosmos-based environment.
 
 ## Get started
 
