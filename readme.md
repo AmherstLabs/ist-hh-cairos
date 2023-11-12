@@ -8,6 +8,16 @@
 - Security: Enhanced security features inherent to Cairo VM, now available for Cosmos applications.
 - Interoperability: Maintain Cosmos's interoperability features while using Cairo's smart contract capabilities.
 
+# Prerequisites
+Before you begin, ensure you have the following installed:
+- Go version 1.18 or higher
+- Latest version of Cosmos SDK
+- Familiarity with Go programming language, as Cosmos SDK is written in Go.
+- Familiarity with Rust programming language, as Cairo VM is written in Rust.
+- Familiarity with the Cosmos SDK and its module structure.
+- Familiarity with the Cairo language and its VM.
+
+
 ## Get started
 
 ```
