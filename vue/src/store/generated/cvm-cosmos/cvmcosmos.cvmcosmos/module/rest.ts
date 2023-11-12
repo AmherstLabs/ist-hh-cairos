@@ -22,6 +22,10 @@ export interface CvmcosmosQueryParamsResponse {
   params?: CvmcosmosParams;
 }
 
+export interface CvmcosmosQuerySayHelloResponse {
+  name?: string;
+}
+
 export interface ProtobufAny {
   "@type"?: string;
 }
@@ -240,6 +244,22 @@ export class Api<SecurityDataType extends unknown> extends HttpClient<SecurityDa
   queryParams = (params: RequestParams = {}) =>
     this.request<CvmcosmosQueryParamsResponse, RpcStatus>({
       path: `/cvm-cosmos/cvmcosmos/params`,
+      method: "GET",
+      format: "json",
+      ...params,
+    });
+
+  /**
+   * No description
+   *
+   * @tags Query
+   * @name QuerySayHello
+   * @summary Queries a list of SayHello items.
+   * @request GET:/cvm-cosmos/cvmcosmos/say_hello/{name}
+   */
+  querySayHello = (name: string, params: RequestParams = {}) =>
+    this.request<CvmcosmosQuerySayHelloResponse, RpcStatus>({
+      path: `/cvm-cosmos/cvmcosmos/say_hello/${name}`,
       method: "GET",
       format: "json",
       ...params,
