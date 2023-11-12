@@ -2,11 +2,11 @@
 **cairos** is CairoVM-Cosmos Integration Module, an innovative project designed to integrate the Cairo virtual machine with the Cosmos blockchain ecosystem. The Cairo virtual machine, known for its powerful and efficient smart contract execution capabilities, is enabling developers to leverage Cairo's features in a Cosmos-based environment.
 
 # Features
-Seamless Integration: Easily integrate Cairo VM with existing Cosmos SDK-based blockchains.
-Smart Contract Support: Utilize Cairo for writing and executing smart contracts within the Cosmos ecosystem.
-Performance Optimization: Leverage Cairo's efficient computation model for improved performance and lower gas costs.
-Security: Enhanced security features inherent to Cairo VM, now available for Cosmos applications.
-Interoperability: Maintain Cosmos's interoperability features while using Cairo's smart contract capabilities.
+- Seamless Integration: Easily integrate Cairo VM with existing Cosmos SDK-based blockchains.
+- Smart Contract Support: Utilize Cairo for writing and executing smart contracts within the Cosmos ecosystem.
+- Performance Optimization: Leverage Cairo's efficient computation model for improved performance and lower gas costs.
+- Security: Enhanced security features inherent to Cairo VM, now available for Cosmos applications.
+- Interoperability: Maintain Cosmos's interoperability features while using Cairo's smart contract capabilities.
 
 ## Get started
 
