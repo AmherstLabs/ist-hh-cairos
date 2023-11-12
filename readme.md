@@ -1,5 +1,5 @@
 # 🚧 Note
-Geregè is still under development and some features may not work at the moment. Soon we will deploy the testable version once we figure out correct way to modify Cosmos SDK to work with Cairo VM. 
+Geregè is still under development and some features may not work at the moment. Soon we will deploy the testable version once we figure out the correct way to modify Cosmos SDK to work with Cairo VM. 
 
 # Cairos
 **cairos** is CairoVM-Cosmos Integration Module, a project to integrate the Cairo VM with the Cosmos SDK. The Cairo VM, known for its provable computation and efficient smart contract execution capabilities, will bring unique inter-chain interoperability with Starknet and Cosmos SDK based chains. 
