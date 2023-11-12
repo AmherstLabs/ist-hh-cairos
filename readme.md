@@ -1,6 +1,9 @@
 # 🚧 Note
 Geregè is still under development and some features may not work at the moment. Soon we will deploy the testable version once we figure out the correct way to modify Cosmos SDK to work with Cairo VM. 
 
+# Existing challenges 
+We developed two APIs capable of compiling Cairo smart contracts and executing them using the Cairo VM in Golang. However, we encountered significant challenges, particularly in configuring external API calls within the Cosmos module using keeper functions. While currently unable to implement proof using the Cairo VM, we are planning to conduct a trial run of Cairo using Cairo Native.
+
 # Cairos
 **cairos** is CairoVM-Cosmos Integration Module, a project to integrate the Cairo VM with the Cosmos SDK. The Cairo VM, known for its provable computation and efficient smart contract execution capabilities, will bring unique inter-chain interoperability with Starknet and Cosmos SDK based chains. 
 
