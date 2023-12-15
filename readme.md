@@ -5,10 +5,10 @@ Geregè is still under development and some features may not work at the moment.
 **Cairos**, a pioneering project to integrate Cairo VM with the Cosmos SDK, represents a landmark fusion of two revolutionary blockchain technologies. This integration aims to leverage the Cairo VM's renowned capabilities in provable computation and efficient smart contract execution, introducing a new realm of inter-chain interoperability between Starknet and Cosmos SDK-based chains. Our goal is to unlock unprecedented potential in smart contract functionality and blockchain interoperability, elevating the standards of decentralized applications. By harnessing Cairo VM's unique features, including its robust security protocols and scalability solutions, Cairos is set to redefine the landscape of blockchain interactions and applications.
 
 # Key Features
-- Provable Computation: Utilize Cairo VM's state-of-the-art provable computation for enhanced security and trust in smart contracts.
-- Efficient Smart Contract Execution: Experience improved performance and reduced operational costs with Cairo VM's efficient smart contract execution within the Cosmos ecosystem.
-- Inter-Chain Interoperability: Explore new horizons in blockchain interactions with seamless cross-chain communications between Starknet and Cosmos SDK-based chains.
-- Enhanced Cosmos SDK Chains: Leverage the upgraded capabilities of Cosmos SDK-based chains, unlocking new potential applications and use cases.
+- **Provable Computation**: Utilize Cairo VM's state-of-the-art provable computation for enhanced security and trust in smart contracts.
+- **Efficient Smart Contract Execution**: Experience improved performance and reduced operational costs with Cairo VM's efficient smart contract execution within the Cosmos ecosystem.
+- **Inter-Chain Interoperability**: Explore new horizons in blockchain interactions with seamless cross-chain communications between Starknet and Cosmos SDK-based chains.
+- **Enhanced Cosmos SDK Chains**: Leverage the upgraded capabilities of Cosmos SDK-based chains, unlocking new potential applications and use cases.
 
 # Prerequisites
 Before begin testing, ensure you have the following installed:
